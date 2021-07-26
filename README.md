@@ -7,6 +7,7 @@
 :pushpin: Полный список изученных команд/умений/навыков по каждому инструменту указан ниже в закрепленных разделах.
 
 Написать мне:
+почта - ionisdmitry@gmail.com
 
 [![Vk](icons/vk.png)](https://vk.com/may2018ok)
 [![Telegram](icons/telegram.png)](https://t.me/ionisdmitry)
