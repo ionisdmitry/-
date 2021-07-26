@@ -10,7 +10,6 @@
 
 [![Vk](icons/vk.png)](https://vk.com/may2018ok)
 [![Telegram](icons/telegram.png)](https://t.me/ionisdmitry)
-[![Mail](icons/mail.png)](mailto:ionisdmitry@gmail.com)
 [![LinkedIn](icons/linkedin.png)](https://:www.linkedin.com/in/dmitry-ionis-913469211)
 [![HeadHunter](icons/hh.png)](https://hh.ru/resume/17e072cbff08ea92ca0039ed1f36456b727066)
 [![GitHub](icons/github.png)](https://github.com/ionisdmitry/IonisDmitry)
